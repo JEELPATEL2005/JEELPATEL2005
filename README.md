@@ -121,12 +121,10 @@
 
 ### 🤖 AI & GenAI
 
-- 🧠 Artificial Intelligence & Machine Learning
-- ✨ Generative AI
-- 🤖 Agentic AI
+- 🤖 Agentic AI & AI Agents
 - 🔗 LLM-based Applications
-- 🧩 AI Agents & Agent Workflows
-- 📚 AI-powered Applications
-
+- 🧩 AI Agent Workflows
+- 📚 Retrieval-Augmented Generation (RAG)
+- ⚙️ AI-powered Applications
 ---
 
