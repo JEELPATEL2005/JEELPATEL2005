@@ -41,15 +41,13 @@
 <br>
 
 📫 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/gecgce2024deval](https://www.linkedin.com/in/jeel-patel-08b301329/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:jeelpatel359@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <
+<p align="center"> <a href="https://www.linkedin.com/in/jeel-patel-08b301329/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:jeelpatel359@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <
 
 <p align="center">
   <strong>Let's connect and build something amazing together! 🚀</strong>
 </p>
 
-<p align="center">
-  📧 <a href="mailto:jeelpatel359@gmail.com">jeelpatel359@gmail.com</a>
-</p>
+
 
 ## 👨‍💻 About Me
 
