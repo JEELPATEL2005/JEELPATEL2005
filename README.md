@@ -223,17 +223,6 @@
   </tr>
 </table>
 
----
-
-<!-- ====================================================== -->
-<!--                         FOOTER                         -->
-<!-- ====================================================== -->
-
-<p align="center">
-  ⭐ <strong>Feel free to explore my repositories and projects!</strong> ⭐
-  <br><br>
-  If you find something useful, consider giving it a ⭐
-</p>
 
 <br>
 
