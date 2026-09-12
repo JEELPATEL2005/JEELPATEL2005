@@ -11,12 +11,6 @@
   I'm Jeel Patel
 </h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="JEELPATEL2005's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 <h3 align="center">
   🚀 Aspiring Software Engineer | 🤖 GenAI & Agentic AI Enthusiast
 </h3>
@@ -43,13 +37,13 @@
 <!--                     GH ASCII CARD                      -->
 <!-- ====================================================== -->
 
-<p align="center">
-  <img
-    src="dark_mode.svg"
-    alt="JEELPATEL2005 GitHub Profile"
-  />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://gh.crafter.run/JEELPATEL2005?theme=dark&detail=80" />
+  <source media="(prefers-color-scheme: light)" srcset="https://gh.crafter.run/JEELPATEL2005?theme=light&detail=80" />
+  <img alt="JEELPATEL2005's GitHub profile" src="https://gh.crafter.run/JEELPATEL2005?theme=dark&detail=80" />
+</picture>
 
+<br>
 <br>
 
 ---
@@ -229,7 +223,7 @@
   </tr>
 </table>
 
-
+![](src/header_.png)
 <br>
 
 <img
