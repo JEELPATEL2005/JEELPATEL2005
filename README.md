@@ -1,4 +1,6 @@
-<!-- ==================== PROFILE HEADER ==================== -->
+<!-- ====================================================== -->
+<!--                     PROFILE HEADER                     -->
+<!-- ====================================================== -->
 
 <h1 align="center">
   Hi
@@ -16,7 +18,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=3500&pause=600&color=A4FF3A&center=true&vCenter=true&width=850&lines=Welcome+To+My+GitHub!+%F0%9F%8C%90;Building+with+Java+%26+Spring+Boot+%E2%98%95;Exploring+Generative+AI+%26+Agentic+AI+%F0%9F%A4%96;Turning+Ideas+into+Real-World+Applications+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%94%A5"
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=3500&pause=700&color=A4FF3A&center=true&vCenter=true&width=850&lines=Welcome+To+My+GitHub!+%F0%9F%8C%90;Building+with+Java+%26+Spring+Boot+%E2%98%95;Exploring+Generative+AI+%26+Agentic+AI+%F0%9F%A4%96;Building+Scalable+Backend+Applications+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%94%A5"
       alt="Typing SVG"
     />
   </a>
@@ -24,320 +26,268 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=3500&pause=700&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+%E2%98%95;Backend+Engineering+%F0%9F%8F%97%EF%B8%8F;Generative+AI+%F0%9F%A4%96;Agentic+AI+%F0%9F%9A%80"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=23&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+%E2%98%95;Backend+Engineering+%F0%9F%8F%97%EF%B8%8F;Generative+AI+%F0%9F%A4%96;Agentic+AI+%F0%9F%9A%80"
     alt="Typing SVG"
   />
 </p>
 
----
+<br>
 
-<!-- ==================== GH-ASCII PROFILE CARD ==================== -->
+<!-- ====================================================== -->
+<!--                     GH ASCII CARD                      -->
+<!-- ====================================================== -->
 
 <p align="center">
-
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="dark_mode.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="light_mode.svg"
-    />
-
-    <img
-      alt="JEELPATEL2005's GitHub profile"
-      src="dark_mode.svg"
-    />
-
-  </picture>
-
+  <img
+    src="dark_mode.svg"
+    alt="JEELPATEL2005 GitHub Profile"
+  />
 </p>
 
 <br>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
+<!-- ====================================================== -->
+<!--                       ABOUT ME                         -->
+<!-- ====================================================== -->
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Tech at Dharmsinh Desai University (DDU), Nadiad**
+<p align="center">
+  <strong>
+    B.Tech Student • Backend Developer • AI Enthusiast
+  </strong>
+</p>
 
-- 💻 Passionate about **Software Development, Backend Engineering & Artificial Intelligence**
-
-- 🤖 Particularly interested in **Generative AI, Agentic AI & AI-powered applications**
-
-- 🏗️ Interested in building **scalable, reliable & real-world applications**
-
-- 📚 I believe in **learning by building, experimenting & continuously improving**
-
-- 🎯 My goal is to become a **well-rounded Software Engineer** capable of building intelligent and scalable products
+<p align="center">
+  🎓 Pursuing <strong>B.Tech at Dharmsinh Desai University (DDU), Nadiad</strong>
+  <br><br>
+  💻 Passionate about <strong>Software Development & Backend Engineering</strong>
+  <br><br>
+  🤖 Exploring <strong>Generative AI, Agentic AI & AI-powered Applications</strong>
+  <br><br>
+  🏗️ Interested in building <strong>scalable, reliable & real-world systems</strong>
+  <br><br>
+  📚 Learning through <strong>building, experimenting & continuous improvement</strong>
+</p>
 
 ---
 
-<!-- ==================== TECH STACK ==================== -->
+<!-- ====================================================== -->
+<!--                      TECH STACK                        -->
+<!-- ====================================================== -->
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
 
-  <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
 
 </p>
 
 <p align="center">
 
-  <!-- Backend -->
   <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" />
 
 </p>
 
 <p align="center">
 
-  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
 
 </p>
 
 <p align="center">
 
-  <!-- AI / Machine Learning -->
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
 
 </p>
 
 <p align="center">
 
-  <!-- Tools, Cloud & Development -->
   <img src="https://skillicons.dev/icons?i=aws,git,github,docker,postman,linux,ubuntu,vscode,idea,eclipse" />
 
 </p>
 
 <p align="center">
 
-  <!-- Communication & Platforms -->
   <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin" />
 
 </p>
 
 ---
 
-<!-- ==================== AI & GENAI ==================== -->
+<!-- ====================================================== -->
+<!--                     AI & GENAI                         -->
+<!-- ====================================================== -->
 
-# 🤖 AI & GenAI
+## 🤖 AI & GenAI
 
 <p align="center">
-
-  🤖 <strong>Agentic AI & AI Agents</strong>
-  &nbsp; • &nbsp;
-  🔗 <strong>LLM-based Applications</strong>
-
-  <br><br>
-
-  🧩 <strong>AI Agent Workflows</strong>
-  &nbsp; • &nbsp;
-  📚 <strong>Retrieval-Augmented Generation (RAG)</strong>
-
-  <br><br>
-
-  ⚙️ <strong>AI-powered Applications</strong>
-
+  <strong>
+    Exploring intelligent systems powered by modern AI technologies
+  </strong>
 </p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+
+      🤖<br>
+      <strong>Agentic AI</strong>
+      <br><br>
+      AI Agents & Autonomous Workflows
+
+    </td>
+
+    <td align="center" width="50%">
+
+      🔗<br>
+      <strong>LLM Applications</strong>
+      <br><br>
+      Building applications around Large Language Models
+
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+
+      📚<br>
+      <strong>RAG</strong>
+      <br><br>
+      Retrieval-Augmented Generation
+
+    </td>
+
+    <td align="center">
+
+      🧩<br>
+      <strong>AI Workflows</strong>
+      <br><br>
+      AI-powered applications & agent workflows
+
+    </td>
+  </tr>
+</table>
 
 ---
 
-<!-- ==================== CONNECT WITH ME ==================== -->
+<!-- ====================================================== -->
+<!--                    CONNECT WITH ME                     -->
+<!-- ====================================================== -->
 
-# 📫 Connect with Me
+## 📫 Connect With Me
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/jeel-patel-08b301329/" target="_blank">
+  <a href="https://www.linkedin.com/in/jeel-patel-08b301329/">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
-      width="50"
+      width="55"
       alt="LinkedIn"
     />
   </a>
 
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="mailto:jeelpatel359@gmail.com">
     <img
       src="https://skillicons.dev/icons?i=gmail"
-      width="50"
+      width="55"
       alt="Gmail"
     />
   </a>
-
 </p>
 
 <p align="center">
-  <strong>Let's connect and build something amazing together! 🚀</strong>
+  <strong>
+    Let's connect and build something amazing together! 🚀
+  </strong>
 </p>
 
 ---
 
-<!-- ==================== GITHUB ANALYTICS ==================== -->
+<!-- ====================================================== -->
+<!--                   GITHUB ANALYTICS                     -->
+<!-- ====================================================== -->
 
-# 📈 GitHub Analytics
+## 📊 GitHub Analytics
 
-<div align="center">
-
-  <img
-    height="169em"
-    src="https://github-stats-extended.vercel.app/api?username=JEELPATEL2005&show_icons=true&theme=tokyonight&border_radius=30"
-    alt="GitHub Stats"
-  />
-
-  <img
-    height="169em"
-    src="https://streak-stats.demolab.com/?user=JEELPATEL2005&theme=tokyonight&border_radius=30"
-    alt="GitHub Streak"
-  />
-
-</div>
+<p align="center">
+  <strong>
+    My GitHub activity, statistics and most-used technologies
+  </strong>
+</p>
 
 <br>
 
-<div align="center">
+<!-- GitHub Stats + Streak -->
+
+<p align="center">
 
   <img
-    height="180em"
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=JEELPATEL2005&show_icons=true&theme=tokyonight&border_radius=20"
+    alt="Jeel Patel GitHub Stats"
+  />
+
+  &nbsp;&nbsp;
+
+  <img
+    height="170"
+    src="https://streak-stats.demolab.com/?user=JEELPATEL2005&theme=tokyonight&border_radius=20"
+    alt="Jeel Patel GitHub Streak"
+  />
+
+</p>
+
+<br>
+
+<!-- Top Languages + Profile Details -->
+
+<p align="center">
+
+  <img
+    height="180"
     width="40%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=JEELPATEL2005&langs_count=10&layout=compact&theme=tokyonight&border_radius=30"
-    alt="Top Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=JEELPATEL2005&langs_count=8&layout=compact&theme=tokyonight&border_radius=20"
+    alt="Most Used Languages"
   />
+
+  &nbsp;&nbsp;
 
   <img
-    height="180em"
+    height="180"
     width="55%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10"
-    alt="Profile Details"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JEELPATEL2005&theme=tokyonight&border_radius=20"
+    alt="GitHub Profile Details"
   />
 
-</div>
+</p>
+
+---
+
+<!-- ====================================================== -->
+<!--                         FOOTER                         -->
+<!-- ====================================================== -->
+
+<p align="center">
+
+  ⭐ <strong>Feel free to explore my repositories and projects!</strong> ⭐
+
+  <br><br>
+
+  If you find something useful, consider giving it a ⭐
+
+</p>
 
 <br>
-
-<div align="center">
-
-  <img
-    height="160em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10"
-    alt="GitHub Stats Summary"
-  />
-
-  <img
-    height="160em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10"
-    alt="Repositories Per Language"
-  />
-
-  <img
-    height="160em"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10"
-    alt="Most Commit Language"
-  />
-
-</div>
-
----
-
-<!-- ==================== CONTRIBUTION GRAPH ==================== -->
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=JEELPATEL2005&theme=tokyo-night&hide_border=true"
-    alt="GitHub Contribution Graph"
-  />
-
-</p>
-
----
-
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-
-  </picture>
-
-</p>
-
----
-
-<!-- ==================== PROFILE VIEWS ==================== -->
-
-# 👀 Profile Views
-
-<p align="center">
-
-  <img
-    src="https://count.getloli.com/get/@JEELPATEL2005?theme=gelbooru"
-    alt="Profile Views"
-  />
-
-</p>
-
----
-
-<!-- ==================== RANDOM DEV QUOTE ==================== -->
-
-<p align="center">
-
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
-    alt="Random Dev Quote"
-  />
-
-</p>
-
----
-
-<!-- ==================== FOOTER MESSAGE ==================== -->
-
-<p align="center">
-
-  <h3 align="center">
-    ⭐ Feel free to explore my repositories and projects!
-    <br>
-    If you like my work, consider giving a ⭐ to my repositories.
-  </h3>
-
-</p>
-
----
-
-<!-- ==================== FOOTER ==================== -->
 
 <img
   width="100%"
   src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75"
-  alt="Footer"
+  alt="Thanks for Visiting"
 />
