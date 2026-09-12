@@ -31,6 +31,36 @@
 
 ---
 
+📊 Contribution Graph
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEELPATEL2005&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+📈 GitHub Analytics
+<div align="center">
+
+<img height="169em" src="https://github-stats-extended.vercel.app/api?username=JEELPATEL2005&show_icons=true&theme=tokyonight&border_radius=30" />
+
+<img height="169em" src="https://streak-stats.demolab.com/?user=JEELPATEL2005&theme=tokyonight&border_radius=30" />
+
+<br>
+
+<img height="180em" width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JEELPATEL2005&langs_count=10&layout=compact&theme=tokyonight&border_radius=30" />
+
+<img height="180em" width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10" />
+
+<br>
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10" />
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10" />
+
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10" />
+
+</div>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
   <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
