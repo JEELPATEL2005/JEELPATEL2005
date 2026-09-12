@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=3500&pause=700&color=A4FF3A&center=true&vCenter=true&width=850&lines=Welcome+To+My+GitHub!+%F0%9F%8C%90;Building+with+Java+%26+Spring+Boot+%E2%98%95;Exploring+Generative+AI+%26+Agentic+AI+%F0%9F%A4%96;Turning+Ideas+into+Real-World+Applications+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%94%A5"
+      src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=3500&pause=600&color=A4FF3A&center=true&vCenter=true&width=850&lines=Welcome+To+My+GitHub!+%F0%9F%8C%90;Building+with+Java+%26+Spring+Boot+%E2%98%95;Exploring+Generative+AI+%26+Agentic+AI+%F0%9F%A4%96;Turning+Ideas+into+Real-World+Applications+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Improving+%F0%9F%94%A5"
       alt="Typing SVG"
     />
   </a>
@@ -24,32 +24,57 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=23&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+%E2%98%95;Backend+Engineering+%F0%9F%8F%97%EF%B8%8F;Generative+AI+%F0%9F%A4%96;Agentic+AI+%F0%9F%9A%80"
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=25&duration=3500&pause=700&color=00C2FF&center=true&vCenter=true&width=650&lines=Software+Developer+%F0%9F%92%BB;Java+%26+Spring+Boot+%E2%98%95;Backend+Engineering+%F0%9F%8F%97%EF%B8%8F;Generative+AI+%F0%9F%A4%96;Agentic+AI+%F0%9F%9A%80"
     alt="Typing SVG"
   />
 </p>
 
 ---
 
-<!-- ==================== ABOUT ME ==================== -->
-
-## 👨‍💻 About Me
+<!-- ==================== GH-ASCII PROFILE CARD ==================== -->
 
 <p align="center">
 
-🎓 I’m currently pursuing my **B.Tech at Dharmsinh Desai University (DDU), Nadiad**
+  <picture>
 
-💻 I’m passionate about **Software Development, Backend Engineering & Artificial Intelligence**
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="dark_mode.svg"
+    />
 
-🤖 I’m particularly interested in **Generative AI, Agentic AI & AI-powered applications**
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="light_mode.svg"
+    />
 
-🏗️ I’m interested in building **scalable, reliable & real-world applications**
+    <img
+      alt="JEELPATEL2005's GitHub profile"
+      src="dark_mode.svg"
+    />
 
-📚 I believe in **learning by building, experimenting & continuously improving**
-
-🎯 My goal is to become a **well-rounded Software Engineer** capable of building intelligent and scalable products
+  </picture>
 
 </p>
+
+<br>
+
+---
+
+<!-- ==================== ABOUT ME ==================== -->
+
+# 👨‍💻 About Me
+
+- 🎓 Pursuing **B.Tech at Dharmsinh Desai University (DDU), Nadiad**
+
+- 💻 Passionate about **Software Development, Backend Engineering & Artificial Intelligence**
+
+- 🤖 Particularly interested in **Generative AI, Agentic AI & AI-powered applications**
+
+- 🏗️ Interested in building **scalable, reliable & real-world applications**
+
+- 📚 I believe in **learning by building, experimenting & continuously improving**
+
+- 🎯 My goal is to become a **well-rounded Software Engineer** capable of building intelligent and scalable products
 
 ---
 
@@ -92,34 +117,46 @@
 
 </p>
 
----
-
-<!-- ==================== AI & GENAI ==================== -->
-
-### 🤖 AI & GenAI
-
 <p align="center">
 
-🤖 **Agentic AI & AI Agents** &nbsp; • &nbsp;
-🔗 **LLM-based Applications** &nbsp; • &nbsp;
-🧩 **AI Agent Workflows**
-
-<br><br>
-
-📚 **Retrieval-Augmented Generation (RAG)** &nbsp; • &nbsp;
-⚙️ **AI-powered Applications**
+  <!-- Communication & Platforms -->
+  <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin" />
 
 </p>
 
 ---
 
-<!-- ==================== CONNECT ==================== -->
+<!-- ==================== AI & GENAI ==================== -->
 
-## 📫 Connect with Me
+# 🤖 AI & GenAI
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/jeel-patel-08b301329/">
+  🤖 <strong>Agentic AI & AI Agents</strong>
+  &nbsp; • &nbsp;
+  🔗 <strong>LLM-based Applications</strong>
+
+  <br><br>
+
+  🧩 <strong>AI Agent Workflows</strong>
+  &nbsp; • &nbsp;
+  📚 <strong>Retrieval-Augmented Generation (RAG)</strong>
+
+  <br><br>
+
+  ⚙️ <strong>AI-powered Applications</strong>
+
+</p>
+
+---
+
+<!-- ==================== CONNECT WITH ME ==================== -->
+
+# 📫 Connect with Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/jeel-patel-08b301329/" target="_blank">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
       width="50"
@@ -147,7 +184,7 @@
 
 <!-- ==================== GITHUB ANALYTICS ==================== -->
 
-# 📊 GitHub Analytics
+# 📈 GitHub Analytics
 
 <div align="center">
 
@@ -211,28 +248,16 @@
 
 ---
 
-<!-- ==================== GH-ASCII PROFILE CARD ==================== -->
+<!-- ==================== CONTRIBUTION GRAPH ==================== -->
+
+# 📊 Contribution Graph
 
 <p align="center">
 
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="dark_mode.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="light_mode.svg"
-    />
-
-    <img
-      alt="JEELPATEL2005's GitHub profile"
-      src="dark_mode.svg"
-    />
-
-  </picture>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=JEELPATEL2005&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Graph"
+  />
 
 </p>
 
@@ -295,6 +320,24 @@
 
 ---
 
+<!-- ==================== FOOTER MESSAGE ==================== -->
+
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+
+  <h3 align="center">
+    ⭐ Feel free to explore my repositories and projects!
+    <br>
+    If you like my work, consider giving a ⭐ to my repositories.
+  </h3>
+
 </p>
+
+---
+
+<!-- ==================== FOOTER ==================== -->
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,25&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=35&fontColor=fff&fontAlignY=75"
+  alt="Footer"
+/>
