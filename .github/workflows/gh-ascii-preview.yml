@@ -1,0 +1,25 @@
+name: gh-ascii preview
+
+on:
+  push:
+    branches: [gh-ascii-preview]
+
+permissions:
+  contents: read
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download both themes
+        run: |
+          curl -fL "https://gh.crafter.run/JEELPATEL2005?theme=dark" -o dark_mode.svg
+          curl -fL "https://gh.crafter.run/JEELPATEL2005?theme=light" -o light_mode.svg
+      - name: Upload preview cards
+        uses: actions/upload-artifact@v4
+        with:
+          name: gh-ascii-preview
+          path: |
+            dark_mode.svg
+            light_mode.svg
