@@ -41,7 +41,7 @@
 <br>
 
 📫 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/jeel-patel-08b301329/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:jeelpatel359@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <
+<p align="center"> <a href="https://www.linkedin.com/in/jeel-patel-08b301329/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:jeelpatel359@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" /> </a>
 
 <p align="center">
   <strong>Let's connect and build something amazing together! 🚀</strong>
@@ -70,21 +70,14 @@
 <p align="center">
 
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
 
 </p>
 
 <p align="center">
 
   <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
-
-</p>
-
-<p align="center">
-
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" />
 
 </p>
 
@@ -97,8 +90,20 @@
 
 <p align="center">
 
-  <!-- Tools & DevOps -->
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux,ubuntu,vscode,idea" />
+  <!-- AI / Machine Learning -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
+
+</p>
+
+<p align="center">
+
+  <!-- Tools, Cloud & Development -->
+  <img src="https://skillicons.dev/icons?i=aws,git,github,docker,postman,linux,ubuntu,vscode,idea,eclipse" />
+
+</p>
+
+<p align="center">
+
 
 </p>
 
