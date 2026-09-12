@@ -40,14 +40,8 @@
 <br>
 <br>
 
-## 📫 How to Reach Me
-
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif"
-    width="50"
-  />
-</p>
+📫 Connect with Me
+<p align="center"> <a href="https://www.linkedin.com/in/gecgce2024deval" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:jeelpatel359@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> <
 
 <p align="center">
   <strong>Let's connect and build something amazing together! 🚀</strong>
