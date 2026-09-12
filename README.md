@@ -31,6 +31,35 @@
 
 ---
 
+🐍 Contribution Snake
+<p align="center"> <picture>
+
+<source
+media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+
+<source
+media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+
+<img
+src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+alt="GitHub Contribution Snake"
+
+</picture> </p>
+
+👀 Profile Views
+<p align="center">
+
+<img src="https://count.getloli.com/get/@JEELPATEL2005?theme=gelbooru" alt="Profile Views" />
+
+</p>
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+
+</p>
+
 📊 Contribution Graph
 <p align="center">
 
