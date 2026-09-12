@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+<!-- ==================== PROFILE HEADER ==================== -->
 
 <h1 align="center">
   Hi
@@ -31,84 +31,11 @@
 
 ---
 
-🐍 Contribution Snake
-<p align="center"> <picture>
-
-<source
-media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-
-<source
-media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-
-<img
-src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-
-</picture> </p>
-
-👀 Profile Views
-<p align="center">
-
-<img src="https://count.getloli.com/get/@JEELPATEL2005?theme=gelbooru" alt="Profile Views" />
-
-</p>
-<p align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-
-</p>
-
-📊 Contribution Graph
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JEELPATEL2005&theme=tokyo-night&hide_border=true" />
-
-</p>
-
-📈 GitHub Analytics
-<div align="center">
-
-<img height="169em" src="https://github-stats-extended.vercel.app/api?username=JEELPATEL2005&show_icons=true&theme=tokyonight&border_radius=30" />
-
-<img height="169em" src="https://streak-stats.demolab.com/?user=JEELPATEL2005&theme=tokyonight&border_radius=30" />
-
-<br>
-
-<img height="180em" width="40%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JEELPATEL2005&langs_count=10&layout=compact&theme=tokyonight&border_radius=30" />
-
-<img height="180em" width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10" />
-
-<br>
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10" />
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10" />
-
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10" />
-
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="JEELPATEL2005's GitHub profile" src="dark_mode.svg" />
-</picture>
-
-<br>
-<br>
-
-📫 Connect with Me
-<p align="center"> <a href="https://www.linkedin.com/in/jeel-patel-08b301329/" target="_blank"> <img src="https://skillicons.dev/icons?i=linkedin" /> </a> <a href="mailto:jeelpatel359@gmail.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" /> </a>
-
-<p align="center">
-  <strong>Let's connect and build something amazing together! 🚀</strong>
-</p>
-
-
+<!-- ==================== ABOUT ME ==================== -->
 
 ## 👨‍💻 About Me
+
+<p align="center">
 
 🎓 I’m currently pursuing my **B.Tech at Dharmsinh Desai University (DDU), Nadiad**
 
@@ -122,7 +49,11 @@ alt="GitHub Contribution Snake"
 
 🎯 My goal is to become a **well-rounded Software Engineer** capable of building intelligent and scalable products
 
+</p>
+
 ---
+
+<!-- ==================== TECH STACK ==================== -->
 
 # 💻 Tech Stack
 
@@ -161,17 +92,209 @@ alt="GitHub Contribution Snake"
 
 </p>
 
-<p align="center">
+---
 
-
-</p>
+<!-- ==================== AI & GENAI ==================== -->
 
 ### 🤖 AI & GenAI
 
-- 🤖 Agentic AI & AI Agents
-- 🔗 LLM-based Applications
-- 🧩 AI Agent Workflows
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚙️ AI-powered Applications
+<p align="center">
+
+🤖 **Agentic AI & AI Agents** &nbsp; • &nbsp;
+🔗 **LLM-based Applications** &nbsp; • &nbsp;
+🧩 **AI Agent Workflows**
+
+<br><br>
+
+📚 **Retrieval-Augmented Generation (RAG)** &nbsp; • &nbsp;
+⚙️ **AI-powered Applications**
+
+</p>
+
 ---
 
+<!-- ==================== CONNECT ==================== -->
+
+## 📫 Connect with Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/jeel-patel-08b301329/">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      width="50"
+      alt="LinkedIn"
+    />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="mailto:jeelpatel359@gmail.com">
+    <img
+      src="https://skillicons.dev/icons?i=gmail"
+      width="50"
+      alt="Gmail"
+    />
+  </a>
+
+</p>
+
+<p align="center">
+  <strong>Let's connect and build something amazing together! 🚀</strong>
+</p>
+
+---
+
+<!-- ==================== GITHUB ANALYTICS ==================== -->
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+  <img
+    height="169em"
+    src="https://github-stats-extended.vercel.app/api?username=JEELPATEL2005&show_icons=true&theme=tokyonight&border_radius=30"
+    alt="GitHub Stats"
+  />
+
+  <img
+    height="169em"
+    src="https://streak-stats.demolab.com/?user=JEELPATEL2005&theme=tokyonight&border_radius=30"
+    alt="GitHub Streak"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    height="180em"
+    width="40%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=JEELPATEL2005&langs_count=10&layout=compact&theme=tokyonight&border_radius=30"
+    alt="Top Languages"
+  />
+
+  <img
+    height="180em"
+    width="55%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10"
+    alt="Profile Details"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img
+    height="160em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10"
+    alt="GitHub Stats Summary"
+  />
+
+  <img
+    height="160em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10"
+    alt="Repositories Per Language"
+  />
+
+  <img
+    height="160em"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JEELPATEL2005&layout=compact&theme=tokyonight&border_radius=10"
+    alt="Most Commit Language"
+  />
+
+</div>
+
+---
+
+<!-- ==================== GH-ASCII PROFILE CARD ==================== -->
+
+<p align="center">
+
+  <picture>
+
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="dark_mode.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="light_mode.svg"
+    />
+
+    <img
+      alt="JEELPATEL2005's GitHub profile"
+      src="dark_mode.svg"
+    />
+
+  </picture>
+
+</p>
+
+---
+
+<!-- ==================== CONTRIBUTION SNAKE ==================== -->
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+  <picture>
+
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    />
+
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    />
+
+    <img
+      src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+    />
+
+  </picture>
+
+</p>
+
+---
+
+<!-- ==================== PROFILE VIEWS ==================== -->
+
+# 👀 Profile Views
+
+<p align="center">
+
+  <img
+    src="https://count.getloli.com/get/@JEELPATEL2005?theme=gelbooru"
+    alt="Profile Views"
+  />
+
+</p>
+
+---
+
+<!-- ==================== RANDOM DEV QUOTE ==================== -->
+
+<p align="center">
+
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"
+    alt="Random Dev Quote"
+  />
+
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
