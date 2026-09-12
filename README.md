@@ -81,39 +81,17 @@
 ## 💻 Tech Stack
 
 <p align="center">
-
   <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js" />
-
-</p>
-
-<p align="center">
-
+  <br>
   <img src="https://skillicons.dev/icons?i=spring,fastapi,nodejs,express" />
-
-</p>
-
-<p align="center">
-
+  <br>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-
-</p>
-
-<p align="center">
-
+  <br>
   <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-
-</p>
-
-<p align="center">
-
+  <br>
   <img src="https://skillicons.dev/icons?i=aws,git,github,docker,postman,linux,ubuntu,vscode,idea,eclipse" />
-
-</p>
-
-<p align="center">
-
+  <br>
   <img src="https://skillicons.dev/icons?i=discord,gmail,linkedin" />
-
 </p>
 
 ---
@@ -132,44 +110,33 @@
 
 <br>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
-
       🤖<br>
       <strong>Agentic AI</strong>
       <br><br>
       AI Agents & Autonomous Workflows
-
     </td>
-
     <td align="center" width="50%">
-
       🔗<br>
       <strong>LLM Applications</strong>
       <br><br>
       Building applications around Large Language Models
-
     </td>
   </tr>
-
   <tr>
-    <td align="center">
-
+    <td align="center" width="50%">
       📚<br>
       <strong>RAG</strong>
       <br><br>
       Retrieval-Augmented Generation
-
     </td>
-
-    <td align="center">
-
+    <td align="center" width="50%">
       🧩<br>
       <strong>AI Workflows</strong>
       <br><br>
       AI-powered applications & agent workflows
-
     </td>
   </tr>
 </table>
@@ -184,21 +151,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeel-patel-08b301329/">
-    <img
-      src="https://skillicons.dev/icons?i=linkedin"
-      width="55"
-      alt="LinkedIn"
-    />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn" />
   </a>
-
   &nbsp;&nbsp;&nbsp;&nbsp;
-
   <a href="mailto:jeelpatel359@gmail.com">
-    <img
-      src="https://skillicons.dev/icons?i=gmail"
-      width="55"
-      alt="Gmail"
-    />
+    <img src="https://skillicons.dev/icons?i=gmail" width="55" alt="Gmail" />
   </a>
 </p>
 
@@ -224,49 +181,47 @@
 
 <br>
 
-<!-- GitHub Stats + Streak -->
-
-<p align="center">
-
-  <img
-    height="170"
-    src="https://github-stats-extended.vercel.app/api?username=JEELPATEL2005&show_icons=true&theme=tokyonight&border_radius=20"
-    alt="Jeel Patel GitHub Stats"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com/?user=JEELPATEL2005&theme=tokyonight&border_radius=20"
-    alt="Jeel Patel GitHub Streak"
-  />
-
-</p>
+<!-- GitHub Stats + Streak: table guarantees side-by-side alignment -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        height="170"
+        src="https://github-stats-extended.vercel.app/api?username=JEELPATEL2005&show_icons=true&theme=tokyonight&border_radius=20"
+        alt="Jeel Patel GitHub Stats"
+      />
+    </td>
+    <td align="center">
+      <img
+        height="170"
+        src="https://streak-stats.demolab.com/?user=JEELPATEL2005&theme=tokyonight&border_radius=20"
+        alt="Jeel Patel GitHub Streak"
+      />
+    </td>
+  </tr>
+</table>
 
 <br>
 
-<!-- Top Languages + Profile Details -->
-
-<p align="center">
-
-  <img
-    height="180"
-    width="40%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=JEELPATEL2005&langs_count=8&layout=compact&theme=tokyonight&border_radius=20"
-    alt="Most Used Languages"
-  />
-
-  &nbsp;&nbsp;
-
-  <img
-    height="180"
-    width="55%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JEELPATEL2005&theme=tokyonight&border_radius=20"
-    alt="GitHub Profile Details"
-  />
-
-</p>
+<!-- Top Languages + Profile Details: table guarantees side-by-side alignment -->
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        height="180"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=JEELPATEL2005&langs_count=8&layout=compact&theme=tokyonight&border_radius=20"
+        alt="Most Used Languages"
+      />
+    </td>
+    <td align="center">
+      <img
+        height="180"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JEELPATEL2005&theme=tokyonight&border_radius=20"
+        alt="GitHub Profile Details"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -275,13 +230,9 @@
 <!-- ====================================================== -->
 
 <p align="center">
-
   ⭐ <strong>Feel free to explore my repositories and projects!</strong> ⭐
-
   <br><br>
-
   If you find something useful, consider giving it a ⭐
-
 </p>
 
 <br>
